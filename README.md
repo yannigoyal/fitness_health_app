@@ -2,15 +2,7 @@
 
 Fitness Health App
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project uses GetX and follows a feature-first architecture.
+For security reasons, only my email was added during testing.
+If you want to test the code yourself, please share your email with me so I can add it to the Google account.
+Due to limited time, the setup for all users has not been completed.
